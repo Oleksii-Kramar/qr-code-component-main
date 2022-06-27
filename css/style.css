@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #eee;
+}
+
+.card {
+    background-color: #fff;
+    width: 200px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 150px;
+}
+
+img {
+    width: 100%;
+    border-radius: 11px;
+}
+
+.card-title {
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 500;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card-sub {
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 20px;
+    text-align: center;
+}
